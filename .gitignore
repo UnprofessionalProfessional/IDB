@@ -1,0 +1,15 @@
+*.exe
+*.dll
+*.pdb
+*.i
+*.obj
+.vs/
+x64/
+*.txt
+getAliasTarget.png
+*.pdf
+*.log
+*.sarif
+*.db
+*.json
+*.txt
